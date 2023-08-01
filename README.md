@@ -1,10 +1,18 @@
-<h1 align="center">Hi there👋, I'm Agustina</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">I´m Agustina, apassionate Full Stack Developer❤️</h3>
+<h5>I´m immersed in the fascinating world of programming. I started my journey as a self-taught enthusiast and recently graduated from Henry's bootcamp, which allowed me to become a Full Stack Developer.
+
+My journey before programming was entirely different. Three years ago, I graduated as a dentist, but I realized that I needed a change in my life. This made me take the decision to follow this path, and for the first time, I feel that I have found something that truly excites me, something that motivates me to keep learning continuously.
+
+Throughout this time, I have gained strong knowledge in technologies like JavaScript, React JS, Redux, Node JS, PostgreSQL, and CSS. I am still thrilled to learn new technologies and strengthen the skills I already possess.
+
+I´m always in search of opportunities to grow and take on new challenges. Currently, I´m working on small development projects to gain more experience while continuing to enhance my skills in other technologies.
+</h5>
+- 📫 How to reach me
+  **agustahhan@gmail.com**
+  **https://www.linkedin.com/in/agustinatahhan**
 
 - 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **agustahhan@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
