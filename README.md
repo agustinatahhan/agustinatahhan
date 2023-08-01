@@ -13,8 +13,8 @@ I´m always in search of opportunities to grow and take on new challenges.
 🤓Currently, I´m working on small development projects to gain more experience while continuing to enhance my skills in other technologies.
 </p>
 - 📫 How to reach me
-  **agustahhan@gmail.com**<br><br>
-  **https://www.linkedin.com/in/agustinatahhan**
+  <strong>agustahhan@gmail.com</strong><br><br>
+  <strong>https://www.linkedin.com/in/agustinatahhan</strong>
 <br><br>
 - 🌱 I’m currently learning **React Native**
 
