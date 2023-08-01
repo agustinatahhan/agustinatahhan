@@ -1,17 +1,17 @@
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I´m Agustina, a passionate Full Stack Developer❤️</h3>
-<h5>💻I´m immersed in the fascinating world of programming. I started my journey as a self-taught enthusiast and recently graduated from Henry's bootcamp, which allowed me to become a Full Stack Developer.
+<p>💻I´m immersed in the fascinating world of programming. I started my journey as a self-taught enthusiast and recently graduated from Henry's bootcamp, which allowed me to become a Full Stack Developer.
 
-My journey before programming was entirely different.😯
-🦷Three years ago, I graduated as a dentist, but I realized that I needed a change in my life.
-✈️I decided to embark on a journey and lived in Germany and Sweden for two years. This experience made me realize that I needed a profession that combined my passion for traveling with my adventurous personality.
+My journey before programming was entirely different.😯<br>
+🦷Three years ago, I graduated as a dentist, but I realized that I needed a change in my life.<br>
+✈️I decided to embark on a journey and lived in Germany and Sweden for two years. This experience made me realize that I needed a profession that combined my passion for traveling with my adventurous personality.<br>
 This made me take the decision to follow this path, and for the first time, I feel that I have found something that truly excites me, something that motivates me to keep learning continuously.💗
-
+<br><br>
 Throughout this time, I have gained strong knowledge in technologies like JavaScript, React JS, Redux, Node JS, PostgreSQL, and CSS. I am still thrilled to learn new technologies and strengthen the skills I already possess.
-
+<br>
 I´m always in search of opportunities to grow and take on new challenges. 
 🤓Currently, I´m working on small development projects to gain more experience while continuing to enhance my skills in other technologies.
-</h5>
+</p>
 - 📫 How to reach me
   **agustahhan@gmail.com**
   **https://www.linkedin.com/in/agustinatahhan**
