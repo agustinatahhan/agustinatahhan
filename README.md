@@ -16,7 +16,7 @@ I´m always in search of opportunities to grow and take on new challenges.
   <strong>agustahhan@gmail.com</strong><br><br>
   <strong>https://www.linkedin.com/in/agustinatahhan</strong>
 <br><br>
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning <strong>React Native</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
