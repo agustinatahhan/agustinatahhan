@@ -8,10 +8,10 @@
 <p>
 <h3>🚀 Tech Stack</h3>
 <h4>Main skills:</h4>
-React · React Native · JavaScript · TypeScript · HTML · CSS · Tailwind 
+Next Js · React · React Native · JavaScript · TypeScript · HTML · CSS · Tailwind 
 
 <h4>Also experienced with:</h4>
-Node.js · Express · PostgreSQL · Sequelize · Git <br><br>
+Node.js · Express · PostgreSQL · Sequelize · Firebase · Git <br><br>
 </p>
 
 <h3>📫 How to reach me</h3>
