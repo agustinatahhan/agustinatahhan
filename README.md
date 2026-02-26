@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h2 align="center">I’m Agustina, a Frontend Developer who loves coding with React 💙</h2>
+<h2 align="center">I’m Agustina, a Frontend Developer who loves coding 💙</h2>
 <p>
 ⚡ I specialize in building dynamic and responsive web applications using Next.js, and I'm currently expanding into mobile development with React Native.<br><br>
 ✨ I'm passionate about creating clean, intuitive interfaces that not only look great but also feel great to use.<br><br>
