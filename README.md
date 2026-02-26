@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋</h1>
 <h2 align="center">I’m Agustina, a Frontend Developer who loves coding with React 💙</h2>
 <p>
-⚡ I specialize in building dynamic and responsive web applications using React.js and JavaScript, and I'm currently expanding into mobile development with React Native.<br><br>
+⚡ I specialize in building dynamic and responsive web applications using Next.js, and I'm currently expanding into mobile development with React Native.<br><br>
 ✨ I'm passionate about creating clean, intuitive interfaces that not only look great but also feel great to use.<br><br>
 💡 I'm always exploring new technologies, improving my problem-solving skills, and working on projects that challenge me to grow as a developer.<br><br>
 </p>
